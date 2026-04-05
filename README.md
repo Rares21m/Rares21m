@@ -35,12 +35,12 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rares21m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rares21m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rares21m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rares21m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rares21m&theme=tokyonight&hide_border=true&background=0D1117&v=2" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rares21m&theme=tokyonight&hide_border=true&background=0D1117" width="94%" />
 </p>
 
 ---
