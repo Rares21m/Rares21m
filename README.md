@@ -22,12 +22,12 @@
 
 **I am currently using:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,mysql,git,github,vscode,excel" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,mysql,git,github,vscode,excel" alt="current stack" />
 </p>
 
 **I am learning & exploring:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,mongodb,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,mongodb,nodejs,tailwind" alt="learning stack" />
 </p>
 
 ---
@@ -35,12 +35,12 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rares21m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rares21m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rares21m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rares21m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" alt="languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rares21m&theme=tokyonight&hide_border=true&background=0D1117" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rares21m&theme=tokyonight&hide_border=true&background=0D1117" width="94%" alt="streak" />
 </p>
 
 ---
@@ -54,6 +54,6 @@
 
 ### 📫 Let's Connect
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:selearares23@stud.ase.ro"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/rares-mihail-selea-322564335/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:rares21m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
